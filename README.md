@@ -14,13 +14,19 @@
 
 ##  Evidencias
 ### Desarrollo Local (IntelliJ)
-![Ying](./evidencia/evi_ying1.png)
+*Ying
+![Ying](./evidencia/evi_ying1.jpeg)
+*Marcelo
 ![Marcelo](./evidencia/evi_marcelo1.png)
+*Mateo
 ![Mateo](./evidencia/mateo_evi1.png)
 
 ### Estado del Repositorio en GitHub
-![Ying](./evidencia/evi_ying2.png)
+*Ying
+![Ying](./evidencia/evi_ying2.jpeg)
+*Marcelo
 ![Marcelo](./evidencia/evi_marcelo2.png)
+*Mateo
 ![Mateo](./evidencia/mateo_evi2.png)
 
 ##  Conclusiones
