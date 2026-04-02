@@ -19,7 +19,7 @@
 *Marcelo
 ![Marcelo](./evidencia/evi_marcelo1.png)
 *Mateo
-![Mateo](./evidencia/mateo_evi1.png)
+![Mateo](./evidencia/mateo_evi2.png)
 
 ### Estado del Repositorio en GitHub
 *Ying
@@ -27,7 +27,7 @@
 *Marcelo
 ![Marcelo](./evidencia/evi_marcelo2.png)
 *Mateo
-![Mateo](./evidencia/mateo_evi2.png)
+![Mateo](./evidencia/mateo_evi1.png)
 
 ##  Conclusiones
 *Muy buen trabajo
